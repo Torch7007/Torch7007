@@ -2,11 +2,13 @@
 
 ###
 
-<h1 align="left">I'm Torch</h1>
+<br clear="both">
+
+<img align="right" height="200" src="https://media1.tenor.com/m/TvhfXgAKgGQAAAAd/torch-walk-walk.gif"  />
 
 ###
 
-<img align="right" height="250" src="https://media1.tenor.com/m/TvhfXgAKgGQAAAAd/torch-walk-walk.gif"  />
+<h1 align="left">I'm Torch</h1>
 
 ###
 
