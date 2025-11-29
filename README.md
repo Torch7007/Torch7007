@@ -2,13 +2,13 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="200" src="https://github.com/Torch7007/Torch7007/blob/main/torch-walk-walk.gif?raw=true"  />
+<h1 align="left">I'm Torch</h1>
 
 ###
 
-<h1 align="left">I'm Torch</h1>
+<br clear="both">
+
+<img align="right" height="300" src="https://github.com/Torch7007/Torch7007/blob/main/torch-walk-walk.gif?raw=true"  />
 
 ###
 
